@@ -1,0 +1,5 @@
+{
+  "name": "SkyPass Creator",
+  "description": "A fully customizable boarding pass generator featuring custom themes and real-time preview.",
+  "requestFramePermissions": []
+}
